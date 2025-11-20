@@ -6,6 +6,7 @@ controller.cpp includes some (not all) of the effects but others can be played u
 but not simultaneously
 
 EFFECTS:
+
 Bitcrusher - reduces number of samples causing the signal to become distorted
 
 Fuzz - uses a high pass filter to remove lower frequencies and clipping the waveform to add a lighter distortion
